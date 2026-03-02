@@ -29,7 +29,7 @@ The CircleCI docs site is built using [Antora](https://antora.org/), a multi-rep
    - Contains all documentation content organized as Antora components
    - Each component has its own configuration, navigation, and pages
 
-2. **UI Bundle (`ui/`)**
+2. **UI Bundle (`to 989ui/`)**
    - Custom UI theme based on Antora's default UI
    - Uses Gulp as build system
    - Outputs `ui-bundle.zip` for use by Antora
