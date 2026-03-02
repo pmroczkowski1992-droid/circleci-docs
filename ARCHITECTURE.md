@@ -18,7 +18,7 @@ The CircleCI docs site is built using [Antora](https://antora.org/), a multi-rep
 
 1. **Component-based Organization**: Documentation is divided into logical components
 2. **Separation of Content and Presentation**: Content in AsciiDoc format, presentation handled by UI bundle
-3. **Modular Build Process**: Separate processes for building UI and content
+3. **Modular Build Process**: Separate processes f=or building UI and content
 4. **Extensibility**: Custom extensions for specialized functionality
 
 ## Component Architecture
